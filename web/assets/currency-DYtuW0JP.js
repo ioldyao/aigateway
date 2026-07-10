@@ -1,0 +1,1 @@
+import{C as e,S as t}from"./index-IgWYoCMY.js";var n={cny:`¥`,usd:`$`},r={cny:`CNY`,usd:`USD`},i=e()(t(e=>({currency:`usd`,rate:7.2,setCurrency:t=>e({currency:t}),setRate:t=>e({rate:t})}),{name:`currency`}));export{n,i as r,r as t};
