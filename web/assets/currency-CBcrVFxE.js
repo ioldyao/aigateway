@@ -1,1 +1,0 @@
-import{b as e,x as t}from"./index-BQGVVirq.js";var n={cny:`¥`,usd:`$`},r={cny:`CNY`,usd:`USD`},i=t()(e(e=>({currency:`usd`,rate:7.2,setCurrency:t=>e({currency:t}),setRate:t=>e({rate:t})}),{name:`currency`}));export{n,i as r,r as t};
